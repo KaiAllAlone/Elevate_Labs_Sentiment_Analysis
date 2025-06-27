@@ -1,0 +1,8 @@
+praw
+pandas
+numpy
+nltk
+requests
+transformers
+beautifulsoup4
+google
